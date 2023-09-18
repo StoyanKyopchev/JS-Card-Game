@@ -1,4 +1,4 @@
-# Music Player
+# Card Game
 
 ![Alt text](./Images/Card%20Game%20showcase%20img.JPG)
 
